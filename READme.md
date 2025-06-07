@@ -2,7 +2,9 @@
 
 This repository contains the CSS styling for a web project, outlining the design choices for colors, responsiveness, and unique creative elements.
 
----
+## Public link
+
+[TRAVEL KENYA](https://finale-project-two.vercel.app/?authuser=0)
 
 ## Color System
 

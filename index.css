@@ -780,7 +780,8 @@ width: 200px;
 /* Media Queries */
 
 /* Media Query for Mobile Devices */
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 412px) /* changed max width from 450 */
+{
   /* General adjustments for smaller screens */
   #main{
     font-size: 12px;
